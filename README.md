@@ -15,3 +15,10 @@ I'm happy with how the project turned out, the 5 hours flew by much faster than 
 
 # Any comment you may have
 Unless it wasn't clear, to move you simply touch the screen! If you have any feedback, or things I could add, I'd love to hear it!
+
+# Sources
+The vast majority of the code for the Bezier curves and the mesh generation was taken from this tutorial:
+
+https://catlikecoding.com/unity/tutorials/curves-and-splines/
+
+I have previously worked with bezier curves when generating random tracks for a racing game I'm working on, but that used a LineRenderer to display it. I chose to go with mesh generation instead as I was thinking it would allow me to edit the mesh later down the line to be raised, instead of a flat plane. Time didn't allow me to do this in the end, but that would've been my next step.
